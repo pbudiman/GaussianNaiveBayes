@@ -2,10 +2,12 @@
 ### COMP30027 Machine Learning - Assignment 1, Semester 1 2021
 #### By: Janice Theresia Sutrisno (1013239) & Patricia Angelica Budiman (1012861)
 
-Objective: 
+### Objective: ###
 1. Implement a supervised Naive Bayes learner to classify pose from key- points provided by a deep convolutional neural network
 2. The classifier is trained, tested, & evaluated on the provided dataset. 
-3. Assuming dataset is located in : 
+
+### Assumption: ###
+Assuming dataset is located in : 
   - train_file_name="COMP30027_2021_assignment1_data/train.csv"
   - test_file_name="COMP30027_2021_assignment1_data/test.csv"
   
