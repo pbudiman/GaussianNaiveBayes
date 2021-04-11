@@ -1,4 +1,4 @@
-# GaussianNaiveBayes
+# Gaussian Naive Bayes
 ### COMP30027 Machine Learning - Assignment 1, Semester 1 2021
 #### By: Janice Theresia Sutrisno (1013239) & Patricia Angelica Budiman (1012861)
 
@@ -9,8 +9,8 @@ Objective:
   - train_file_name="COMP30027_2021_assignment1_data/train.csv"
   - test_file_name="COMP30027_2021_assignment1_data/test.csv"
   
-***PREPROCESSING***   
-A. To re-create Gaussian Naive Bayes result:
+### To Re-Create Results ###  
+A. To re-create **Gaussian Naive Bayes** result:
 1. Run the block under ***PREPROCESSING*** heading
     - Run the Preprocess functions and all the supporting functions
     - To read the file and store it in required structure
@@ -27,10 +27,11 @@ A. To re-create Gaussian Naive Bayes result:
     - To run the Gaussian Naive Bayes Classifier with the provided train and test datasets
     - preprocess,  train, predict, & evaluate is used here
 
-B. To re-create results for Q 1,3,4,5:
+B. To re-create results for **Q 1,3,4,5**:
 1. Run each block under each questions
 2. If error occurs, please run Section A.
 
+## Questions Description
 Q1. 
 * Block 1: functions to calculate micro average & macro average and create confusion matrix
 * Block 2: Run the functions and print the confusion matrix and results
