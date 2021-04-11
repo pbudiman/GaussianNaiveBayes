@@ -32,28 +32,28 @@ B. To re-create results for Q 1,3,4,5:
 2. If error occurs, please run Section A.
 
 Q1. 
-    - Block 1: functions to calculate micro average & macro average and create confusion matrix
-    - Block 2: Run the functions and print the confusion matrix and results
+* Block 1: functions to calculate micro average & macro average and create confusion matrix
+* Block 2: Run the functions and print the confusion matrix and results
 
 Q3. 
-    - Block 1: functions to train, calculate probability, & predict classes using KDE and to calculate similarity between when using the Gaussian Naive Bayes
-    - Block 2: Run the functions and print the confusion matrix, accuracy %, similarity % with the Gaussian Naive Bayes 
+* Block 1: functions to train, calculate probability, & predict classes using KDE and to calculate similarity between when using the Gaussian Naive Bayes
+* Block 2: Run the functions and print the confusion matrix, accuracy %, similarity % with the Gaussian Naive Bayes 
 
 Q4.
-    - Block 1: functions to 
-        - preprocess train dataset for Q4 
-        - do cross validation to choose best bandwidth
-        - display graph of kde vs x1 attribute for class 'bridge' to show the difference when using best bandwidth and using arbitrary bandwidth
-    - Block 2: 
-        - Run the functions to find the best bandwidth 
-        - Run KDE Naive Bayes using the bandwidth
-        - Display the graph
-        - Show the accuracy using KDE with the best bandwidth & accuracy when using arbitrary bandwidth
+* Block 1: functions to 
+  * preprocess train dataset for Q4 
+  * do cross validation to choose best bandwidth
+  * display graph of kde vs x1 attribute for class 'bridge' to show the difference when using best bandwidth and using arbitrary bandwidth
+* Block 2: 
+  * Run the functions to find the best bandwidth 
+  * Run KDE Naive Bayes using the bandwidth
+  * Display the graph
+  * Show the accuracy using KDE with the best bandwidth & accuracy when using arbitrary bandwidth
         
 Q5.
-    - Block 1: functions to find mean of attribute per class & impute missing value with respective mean
-    - Block 2: 
-        - Run the functions and the Naive Bayes Classifier on the mean-imputed training dataset
-        - Compare accuracy % when using 0-imputation and mean-imputation for Gaussian and KDE Naive Bayes Classifier
+  * Block 1: functions to find mean of attribute per class & impute missing value with respective mean
+  * Block 2: 
+    * Run the functions and the Naive Bayes Classifier on the mean-imputed training dataset
+    * Compare accuracy % when using 0-imputation and mean-imputation for Gaussian and KDE Naive Bayes Classifier
                 
         
