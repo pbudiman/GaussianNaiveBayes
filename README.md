@@ -11,7 +11,7 @@ Assuming dataset is located in :
   - train_file_name="COMP30027_2021_assignment1_data/train.csv"
   - test_file_name="COMP30027_2021_assignment1_data/test.csv"
   
-### To Re-Create Results ###  
+### To Re-Create Results in Jupyter Notebook ###  
 A. To re-create **Gaussian Naive Bayes** result:
 1. Run the block under ***PREPROCESSING*** heading
     - Run the Preprocess functions and all the supporting functions
@@ -33,7 +33,7 @@ B. To re-create results for **Q 1,3,4,5**:
 1. Run each block under each questions
 2. If error occurs, please run Section A.
 
-## Questions Description
+## Questions Description in Jupyter Notebook Format
 Q1. 
 * Block 1: functions to calculate micro average & macro average and create confusion matrix
 * Block 2: Run the functions and print the confusion matrix and results
